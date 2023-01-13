@@ -1,0 +1,26 @@
+{
+  "name": "canonical-email-generator",
+  "version": "1.0.0",
+  "description": "A package to generate the canonical form of an email. So this could be used to check against the database for unique users",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishTeens/canonical-email-generator.git"
+  },
+  "keywords": [
+    "javascript",
+    "security"
+  ],
+  "author": "Harish R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarishTeens/canonical-email-generator/issues"
+  },
+  "homepage": "https://github.com/HarishTeens/canonical-email-generator#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
