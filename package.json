@@ -1,6 +1,6 @@
 {
   "name": "canonical-email-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to generate the canonical form of an email. So this could be used to check against the database for unique users",
   "main": "index.js",
   "scripts": {
