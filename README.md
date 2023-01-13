@@ -12,4 +12,5 @@ npm i --save canonical-email-generator
 const { canonicalizeEmail } = require('../canonical-email-generator')
 
 console.log(canonicalizeEmail("hello.hello+123@gmail.com"));
+// Output: hellohello@gmail.com
 ```
